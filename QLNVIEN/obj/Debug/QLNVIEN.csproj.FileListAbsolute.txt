@@ -1,0 +1,20 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QLNVIEN\QLNVIEN\obj\Debug\QLNVIEN.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QLNVIEN\QLNVIEN\obj\Debug\QLNVIEN.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QLNVIEN\QLNVIEN\obj\Debug\QLNVIEN.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QLNVIEN\QLNVIEN\bin\Debug\QLNVIEN.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QLNVIEN\QLNVIEN\bin\Debug\QLNVIEN.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QLNVIEN\QLNVIEN\obj\Debug\QLNVIEN.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QLNVIEN\QLNVIEN\obj\Debug\QLNVIEN.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QLNVIEN\QLNVIEN\obj\Debug\QLNVIEN.frmNhanvien.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\QLNVIEN\QLNVIEN\obj\Debug\QLNVIEN.frmThemMoiNV.resources
+D:\projectAll\FINAL_BTNB_NGUYENDINHVAN\FINAL_BTNB_NGUYENDINHVAN\QLNVIEN\QLNVIEN\bin\Debug\QLNVIEN.exe
+D:\projectAll\FINAL_BTNB_NGUYENDINHVAN\FINAL_BTNB_NGUYENDINHVAN\QLNVIEN\QLNVIEN\bin\Debug\QLNVIEN.pdb
+D:\projectAll\FINAL_BTNB_NGUYENDINHVAN\FINAL_BTNB_NGUYENDINHVAN\QLNVIEN\QLNVIEN\obj\Debug\QLNVIEN.csprojAssemblyReference.cache
+D:\projectAll\FINAL_BTNB_NGUYENDINHVAN\FINAL_BTNB_NGUYENDINHVAN\QLNVIEN\QLNVIEN\obj\Debug\QLNVIEN.frmNhanvien.resources
+D:\projectAll\FINAL_BTNB_NGUYENDINHVAN\FINAL_BTNB_NGUYENDINHVAN\QLNVIEN\QLNVIEN\obj\Debug\QLNVIEN.frmThemMoiNV.resources
+D:\projectAll\FINAL_BTNB_NGUYENDINHVAN\FINAL_BTNB_NGUYENDINHVAN\QLNVIEN\QLNVIEN\obj\Debug\QLNVIEN.Properties.Resources.resources
+D:\projectAll\FINAL_BTNB_NGUYENDINHVAN\FINAL_BTNB_NGUYENDINHVAN\QLNVIEN\QLNVIEN\obj\Debug\QLNVIEN.csproj.GenerateResource.cache
+D:\projectAll\FINAL_BTNB_NGUYENDINHVAN\FINAL_BTNB_NGUYENDINHVAN\QLNVIEN\QLNVIEN\obj\Debug\QLNVIEN.csproj.CoreCompileInputs.cache
+D:\projectAll\FINAL_BTNB_NGUYENDINHVAN\FINAL_BTNB_NGUYENDINHVAN\QLNVIEN\QLNVIEN\obj\Debug\QLNVIEN.exe
+D:\projectAll\FINAL_BTNB_NGUYENDINHVAN\FINAL_BTNB_NGUYENDINHVAN\QLNVIEN\QLNVIEN\obj\Debug\QLNVIEN.pdb
+D:\projectAll\FINAL_BTNB_NGUYENDINHVAN\FINAL_BTNB_NGUYENDINHVAN\QLNVIEN\QLNVIEN\bin\Debug\QLNVIEN.exe.config
